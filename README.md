@@ -1,6 +1,4 @@
-# New Project
-
-this project  was create from local sydtem
+Fix bug in project setup
 
 plaese run ho ja na kab se try kar rahi hus
 
