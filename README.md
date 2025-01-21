@@ -1,5 +1,2 @@
-# New Project
+Fix bug in project setup
 
-this project  was create from local sydtem
-
-vvvmhvmhbmjnb
